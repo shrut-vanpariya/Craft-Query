@@ -21,6 +21,11 @@ LM Studio
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![img1](client/public/1.jpg)
+![img2](client/public/2.jpg)
+![img3](client/public/3.jpg)
+![img4](client/public/4.jpg)
+![img5](client/public/5.jpg)
+![img6](client/public/6.jpg)
 
 
