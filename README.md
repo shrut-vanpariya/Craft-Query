@@ -13,10 +13,10 @@ Code Llama\
 LM Studio
 ## Authors
 
-- [Vraj Shah](https://www.github.com/Vraj1510)
 - [Manav Kantharia](https://www.github.com/Manav0407)
-- [Vanshil Patel](https://www.github.com/VanshilPatel)
 - [Shrut Vanpariya](https://www.github.com/shrut-vanpariya)
+- [Vanshil Patel](https://www.github.com/VanshilPatel)
+- [Vraj Shah](https://www.github.com/Vraj1510)
 
 
 ## Screenshots
