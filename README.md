@@ -26,6 +26,5 @@ LM Studio
 ![img3](client/public/3.jpg)
 ![img4](client/public/4.jpg)
 ![img5](client/public/5.jpg)
-![img6](client/public/6.jpg)
 
 
