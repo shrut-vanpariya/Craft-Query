@@ -1,5 +1,5 @@
 
-# Project Title
+# Craft-Query | AI SQL Query Generator
 
 Our web development project combines natural language processing with database functionality. Users have the ability to input a database schema, defining the structure of their data. They can then provide prompts in natural language, and our integrated language model processes these prompts to generate SQL queries.
 
